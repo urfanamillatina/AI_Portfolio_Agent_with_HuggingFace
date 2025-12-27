@@ -26,6 +26,22 @@
   <em>Notification When Agent Unable to Answer </em>
 </p>
 
+<p align="center">
+<h3 align = "center"> [Try AI Portfolio Agent here](https://huggingface.co/spaces/murfana/Agentic_AI)
+</h3>
+</p>
+
+[Try AI Portfolio Agent here](https://huggingface.co/spaces/murfana/Agentic_AI)
+
+<iframe 
+  src="https://huggingface.co/spaces/murfana/Agentic_AI"
+  width="100%"
+  height="500"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 ## What's this project about?
 
 AI Portfolio Agent acts as a representative of the portfolio's owner using data, such as personal summary and resume files, to answer questions about the owner. In this project, I use the data from our tutor and mentor, **Dr. Habib Shaikh**. Owner will aslo be notify when the agent is unable to answer.
