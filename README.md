@@ -28,7 +28,7 @@
 
 ## What's this project about?
 
-AI Portfolio Agent acts as a representative of the portfolio's owner using data, such as personal summary and resume files, to answer questions about the owner. In this project, I use the data from our tutor and mentor, Dr. Habib Shaikh. Owner will aslo be notify when the agent is unable to answer.
+AI Portfolio Agent acts as a representative of the portfolio's owner using data, such as personal summary and resume files, to answer questions about the owner. In this project, I use the data from our tutor and mentor, **Dr. Habib Shaikh**. Owner will aslo be notify when the agent is unable to answer.
 
 ## Features
 
