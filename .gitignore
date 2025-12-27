@@ -1,0 +1,7 @@
+.env
+*.env
+.agvenv
+.*agvenv
+demo_full.mov
+demo_huggingface.gif
+demo_resize.mp4

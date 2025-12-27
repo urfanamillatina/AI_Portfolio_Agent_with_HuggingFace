@@ -1,0 +1,8 @@
+python-dotenv
+openai
+requests
+gradio
+pypdf
+openai
+openai-agents
+
