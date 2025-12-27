@@ -26,21 +26,17 @@
   <em>Notification When Agent Unable to Answer </em>
 </p>
 
+
 <p align="center">
-<h3 align = "center"> [Try AI Portfolio Agent here](https://huggingface.co/spaces/murfana/Agentic_AI)
+<h3 align = "center"> Try AI Portfolio Agent here
 </h3>
 </p>
 
-[Try AI Portfolio Agent here](https://huggingface.co/spaces/murfana/Agentic_AI)
-
-<iframe 
-  src="https://huggingface.co/spaces/murfana/Agentic_AI"
-  width="100%"
-  height="500"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+<p align="center">
+  <a href="https://huggingface.co/spaces/murfana/Agentic_AI">
+    <img src="https://img.shields.io/badge/🤗%20Open%20In-HuggingFace%20Space-blue" alt="Hugging Face Space">
+  </a>
+</p>
 
 ## What's this project about?
 
